@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="pacote_texto",
-    version="0.0.1",
+    name="pacote_testpy_dio",
+    version="0.0.2",
     author="Douglas",
     author_email="douglasalvesmoreira2013@gmail.com",
     description="Frase simples para progressão de aprendizado",
