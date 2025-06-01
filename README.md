@@ -1,9 +1,8 @@
-# package_name
+# pacote_texto
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package pacote_texto is used to:
+	- print hello world
 
 ## Installation
 
@@ -16,12 +15,12 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from pacote_texto import hello
+hello.world()
 ```
 
 ## Author
-My_name
+Douglas
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
