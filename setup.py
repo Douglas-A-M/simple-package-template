@@ -14,7 +14,7 @@ setup(
     description="Frase simples para progressão de aprendizado",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Douglas-A-M/simple-package-template"
+    url="https://github.com/Douglas-A-M/simple-package-template",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
